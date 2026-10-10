@@ -3,8 +3,8 @@
 
 A single-page portfolio website built with HTML, CSS and JavaScript by Harshita.
 
-**Live site:** harshitawork.niat.tech
-**Resume:** harshitawork.niat.tech
+**Live site:** https://harshitawork.niat.tech/
+**Resume:** https://harshitawork.niat.tech/
 
 ## What's inside
 - About, skills, education and projects sections
